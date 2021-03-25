@@ -45,3 +45,5 @@ expenditure = [2,3,4,2,3,6,8,4,5]
 d = 5
 
 print(activityNotifications(expenditure, d))
+
+# hard ex in hr
